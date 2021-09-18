@@ -1,0 +1,6 @@
+[submodule "hexamap-core"]
+	path = hexamap-core
+	url = https://github.com/brongniart/hexamap-core.git
+[submodule "hexamap-gl"]
+	path = hexamap-gl
+	url = https://github.com/brongniart/hexamap-gl.git
